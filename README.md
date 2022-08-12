@@ -26,6 +26,12 @@
 
 CRUD com NestJS, Mysql e Documentação Swagger.
 
+## Desenvolvimento
+
+```bash
+Siga o Passo-a-Passo informado no arquivo raiz de nome: Procedimento.MD para desenvolver sua api.
+```
+
 ## Instalação
 
 ```bash
