@@ -159,6 +159,9 @@ email: string;
 cpf: string;
 
 @Column({ length: 11 })
+fone: string;
+
+@Column({ length: 11 })
 celular: string;
 
 @Column()
@@ -177,6 +180,9 @@ email: string;
 
 @IsString()
 cpf: string;
+
+@IsString()
+fone: string;
 
 @IsString()
 celular: string;
