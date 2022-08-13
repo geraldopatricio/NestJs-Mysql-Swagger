@@ -4,7 +4,7 @@
 ```bash
 npm install -g npm
 npm insta```ll -g @nestjs/cli
-
+```
 ## outros pré-requisitos
 ```bash
 instale o postman ou insomnia e também um sgbd do mysql de sua escolha
