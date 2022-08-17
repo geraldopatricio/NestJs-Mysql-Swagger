@@ -58,8 +58,8 @@ http://localhost:3000/api
 ## Banco de Dados
 <img src="./src/assets/img/banco.png" alt="Banco" /> 
 
-## Video Demo
-<a href="https://youtu.be/jcho7OcI-SM" target="_blank">Clique Aqui</a>
+## Video
+<a href="https://pay.kiwify.com.br/vtAdyuB" target="_blank">Clique Aqui</a>
 
 ## Suporte
 
