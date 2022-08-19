@@ -59,7 +59,7 @@ http://localhost:3000/api
 <img src="./src/assets/img/banco.png" alt="Banco" /> 
 
 ## Video
-<a href="https://pay.kiwify.com.br/vtAdyuB" target="_blank">Clique Aqui</a>
+<a href="https://youtu.be/QOMiiZ8CUYM" target="_blank">Clique Aqui</a>
 
 ## Suporte
 
