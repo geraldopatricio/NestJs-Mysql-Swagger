@@ -64,7 +64,8 @@ http://localhost:3000/api
 ## Suporte
 
 ```bash
-geraldo@gpsoft.com.br
+email: geraldo@gpsoft.com.br
+WhatsApp: (85) 9 9731-9843
 ```
 
 ## License
